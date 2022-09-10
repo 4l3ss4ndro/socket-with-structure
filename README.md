@@ -1,4 +1,4 @@
-# socket-with-structure
+# socket-with-structure-TCP
 
 # For the server
 1-Go to the file folder
